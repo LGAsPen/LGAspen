@@ -3,6 +3,13 @@
 <h1>Hi, I'm Luis Román. 👋</h1>
 <h2>Software developer.</h2>
 ```
+
+```java
+String AboutMy = "Software developer with more than 2 years of experience."+
+                  "I am a proactive person, good teammate, organized and analyzer, "+
+                  "my goal is a dynamic position where I can acquire and share my knowledge.";
+```
+
 ```dart
 final  myProfile = {
   'Skills':[HTML, CSS, Bootstrap, PHP, Flutter, Dart, Java, MySQL, SQLite],
@@ -10,6 +17,7 @@ final  myProfile = {
   'others':['Google play console', 'App store connect', 'App gallery connect', 'macOS', 'Windows']  
 };
 ```
+
 
 You can find me  :computer: :iphone:
 - [Instagram](https://instagram.com/rs_luisg)
