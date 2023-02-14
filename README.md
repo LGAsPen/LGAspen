@@ -1,7 +1,7 @@
 
 ```html
-<h1>Hola, soy Luis Roman 👋</h1>
-<h2>Desarrollador de software</h2>
+<h1>Hi, I'm Luis Román. 👋</h1>
+<h2>Software developer.</h2>
 ```
 ```dart
 final  myProfile = {
