@@ -1,5 +1,17 @@
 ### Hi there 👋
 
+```dart
+final  myProfile = {
+  'Skills':[HTML, CSS, Bootstrap, PHP, Flutter, Dart, Java, MySQL, SQLite],
+  'Tools':[GitLab, GutHub, Eclipse, VS-Code, Postman, Firebase, Android-Studio, Xcode],
+  'others':['Google play console', 'App store connect', 'App gallery connect', 'macOS', 'Windows']  
+};
+```
+
+You can find me  :computer: :iphone:
+- [Instagram](https://instagram.com/rs_luisg)
+- [Linkedin](https://www.linkedin.com/in/luis-gerardo-rom%C3%A1n-s%C3%A1nchez-22ba49237)
+
 <!--
 **LGAsPen/LGAspen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
