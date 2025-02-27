@@ -5,14 +5,14 @@
 ```
 
 ```java
-String AboutMy = "Software developer with more than 2 years of experience."+
+String AboutMy = "Software developer with more than 4 years of experience."+
                   "I am a proactive person, good teammate, organized and analyzer, "+
                   "my goal is a dynamic position where I can acquire and share my knowledge.";
 ```
 
 ```dart
 final  myProfile = {
-  'Skills':[HTML, CSS, Bootstrap, PHP, Flutter, Dart, Java, MySQL, SQLite],
+  'Skills':[HTML, CSS, Bootstrap, PHP, Flutter, Dart, Java, MySQL, SQLite, Swift],
   'Tools':[GitLab, GutHub, Eclipse, VS-Code, Postman, Firebase, Android-Studio, Xcode],
   'others':['Google play console', 'App store connect', 'App gallery connect', 'macOS', 'Windows']  
 };
